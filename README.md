@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi！I'm luengmingbiao 👋
+
+🔭 I’m currently working on Guangdong Provincial People's Hospital.
+🌱 I’m currently learning BigData Development & AI.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luengmingbiao/luengmingbiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
