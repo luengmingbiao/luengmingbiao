@@ -1,7 +1,10 @@
 ### Hi！I'm luengmingbiao 👋
 
 🔭 I’m currently working on Guangdong Provincial People's Hospital.
+
 🌱 I’m currently learning BigData Development & AI.
+
+💬 Ask me about here.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
